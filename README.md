@@ -14,8 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA7882&center=true&width=435&lines=Aspiring+Computer+Science+Engineer;Machine+Learning+%7C+Data+Science;NLP+%26+LLMs+%7C+RAG+%7C+AI+Agents;Always+exploring+new+AI+methods" alt="Typing SVG" />
 </div>
 
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2063AA&center=true&width=435&lines=Aspiring+Computer+Science+Engineer+;Machine+Learning+%F0%9F%A4%96+%7C+Data+Science;NLP+%26+LLMs+%F0%9F%A7%A0+%7C+RAG++%7C+AI+Agents+;Always+exploring+new+AI+methods" alt="Typing SVG" /></a>
-<div align="center"> -->
+<div align="center">
   <a href="https://www.linkedin.com/in/marouahattab/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
