@@ -38,9 +38,7 @@
 ---
 
 ## 🚀 Technologies & Tools
-
 <div align="center">
-
   <!-- MLOps & Cloud -->
   <h3>☁️ MLOps & Cloud</h3>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,grafana" height="50" alt="mlops-icons" />
@@ -52,7 +50,6 @@
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/ZenML-FF0000?style=for-the-badge&logo=zenml&logoColor=white" />
   <img src="https://img.shields.io/badge/Optuna-0077C8?style=for-the-badge&logo=optuna&logoColor=white" />
-
   <!-- AI & Data Science -->
   <h3>🤖 AI, Machine Learning & Data Science</h3>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,r" height="50" alt="ai-icons" />
@@ -63,11 +60,23 @@
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white" />
   <!-- Web Development -->
   <h3>🌐 Web Development</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,nodejs,graphql" height="50" alt="web-icons" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,graphql,bootstrap,nginx" height="50" alt="web-icons" />
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <!-- Backend & Messaging -->
+  <h3>⚙️ Backend & Messaging</h3>
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis" height="50" alt="messaging-icons" />
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
   <!-- Databases & Vector Stores -->
   <h3>🗄️ Databases & Vector Stores</h3>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" height="50" alt="db-icons" />
@@ -77,7 +86,13 @@
   <img src="https://img.shields.io/badge/Qdrant-bd1e2e?style=for-the-badge&logo=qdrant&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-DA7882?style=for-the-badge&logo=chroma&logoColor=white" />
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-
+  <!-- Testing & CI/CD -->
+  <h3>🧪 Testing & CI/CD</h3>
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="cicd-icons" />
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
   <!-- Tools -->
   <h3>🛠️ Tools & Platforms</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,unity,figma,notion" height="50" alt="tools-icons" />
@@ -86,7 +101,6 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
 </div>
 
 ---
