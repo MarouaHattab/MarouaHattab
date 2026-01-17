@@ -86,13 +86,6 @@
   <img src="https://img.shields.io/badge/Qdrant-bd1e2e?style=for-the-badge&logo=qdrant&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-DA7882?style=for-the-badge&logo=chroma&logoColor=white" />
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <!-- Testing & CI/CD -->
-  <h3>🧪 Testing & CI/CD</h3>
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="cicd-icons" />
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
   <!-- Tools -->
   <h3>🛠️ Tools & Platforms</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,unity,figma,notion" height="50" alt="tools-icons" />
