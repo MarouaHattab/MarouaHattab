@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/marouahattab/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:maroua.hattab@polytechnicien.tn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
    <a href="https://github.com/MarouaHattab" target="_blank">
@@ -30,7 +30,7 @@
 
 ## 👩‍💻 About Me
 
-> I am a final year **Computer Science Engineering student** specializing in **AI & Data Science** at **École Polytechnique de Sousse**. I am passionate about leveraging **Machine Learning**, **NLP**, and **MLOps** to build intelligent and scalable solutions.
+> I am a final year **Computer Science Engineering student** specializing in **AI & Data Science** I am passionate about leveraging **Machine Learning**, **NLP**, and **MLOps** to build intelligent and scalable solutions.
 
 *   🎓 **Education**: Ingénierie en Informatique (IA & Data Science) at École Polytechnique de Sousse.
 *   🔭 **Interests**: RAG Systems, AI Agents, MLOps,NLP,Computer Vision.
