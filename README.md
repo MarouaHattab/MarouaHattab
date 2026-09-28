@@ -106,7 +106,7 @@
 ## 🏆 GitHub Trophies
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/MarouaHattab/MarouaHattab/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/MarouaHattab/MarouaHattab/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4&v=03cf6aa" height="150" alt="trophy graph"  />
 </div>
 
 <br/>
