@@ -114,8 +114,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarouaHattab&theme=radical&hide_border=true" width="48%" height="175" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarouaHattab&theme=radical" width="48%" height="175" alt="Profile Summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarouaHattab&theme=radical&hide_border=true" width="41%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarouaHattab&theme=radical" width="57%" alt="Profile Summary" />
 </div>
 
 <br/>
