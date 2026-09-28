@@ -1,0 +1,44 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Prepare trophy output directory
+        run: mkdir -p dist
+
+      - name: Generate trophy SVG
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: 'username=${{ github.repository_owner }}&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4'
+          path: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          version: v1.0.0
+
+      - name: Publish trophy SVG
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: trophy-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

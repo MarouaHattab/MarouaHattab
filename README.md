@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.jpg" width="100%" alt="Banner" style="border-radius: 10px;"/>
+  <img src="./cover.png" width="100%" alt="Banner" style="border-radius: 10px;"/>
 </div>
 
 <br/>
@@ -11,8 +11,12 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA7882&center=true&width=435&lines=Aspiring+Computer+Science+Engineer;Machine+Learning+%7C+Data+Science;NLP+%26+LLMs+%7C+RAG+%7C+AI+Agents;Always+exploring+new+AI+methods" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=DA7882&center=true&vCenter=true&width=540&height=40&lines=Applied+AI+Engineer;Machine+Learning+%7C+Data+Science;LLMs+%26+Agentic+AI;Computer+Vision+%26+Multimodal+AI;MLOps+%26+Cloud+Deployment;Always+exploring+new+things" alt="Applied AI Engineer | Machine Learning and Data Science | LLMs and Agentic AI | Computer Vision and Multimodal AI | MLOps and Cloud Deployment" />
 </div>
+
+<br/>
+
+## 📤 Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marouahattab/" target="_blank">
@@ -21,132 +25,108 @@
   <a href="mailto:maroua.hattab@polytechnicien.tn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-   <a href="https://github.com/MarouaHattab" target="_blank">
+  <a href="https://github.com/MarouaHattab" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
 </div>
 
 <br/>
 
-## 👩‍💻 About Me
+## 🛠️ Top Technical Skills
 
-> I am a final year **Computer Science Engineering student** specializing in **AI & Data Science** I am passionate about leveraging **Machine Learning**, **NLP**, and **MLOps** to build intelligent and scalable solutions.
-
-*   🎓 **Education**: Ingénierie en Informatique (IA & Data Science) at École Polytechnique de Sousse.
-*   🔭 **Interests**: RAG Systems, AI Agents, MLOps,NLP,Computer Vision.
-
----
-
-## 🚀 Technologies & Tools
 <div align="center">
-  <!-- MLOps & Cloud -->
-  <h3>☁️ MLOps & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,grafana" height="50" alt="mlops-icons" />
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/ZenML-FF0000?style=for-the-badge&logo=zenml&logoColor=white" />
-  <img src="https://img.shields.io/badge/Optuna-0077C8?style=for-the-badge&logo=optuna&logoColor=white" />
-  <!-- AI & Data Science -->
-  <h3>🤖 AI, Machine Learning & Data Science</h3>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,r" height="50" alt="ai-icons" />
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- Web Development -->
-  <h3>🌐 Web Development</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,graphql,bootstrap,nginx" height="50" alt="web-icons" />
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <!-- Backend & Messaging -->
-  <h3>⚙️ Backend & Messaging</h3>
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis" height="50" alt="messaging-icons" />
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <!-- Databases & Vector Stores -->
-  <h3>🗄️ Databases & Vector Stores</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" height="50" alt="db-icons" />
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-bd1e2e?style=for-the-badge&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-DA7882?style=for-the-badge&logo=chroma&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <!-- Tools -->
-  <h3>🛠️ Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,unity,figma,notion" height="50" alt="tools-icons" />
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" title="PyTorch" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" title="OpenCV" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" title="scikit-learn" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="48" height="48" alt="R" title="R" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="48" height="48" alt="Kaggle" title="Kaggle" />
+  <br/><br/>
+  <img src="https://cdn.simpleicons.org/langchain/2D8D7A" width="48" height="48" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langgraph/2D8D7A" width="48" height="48" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface" width="48" height="48" alt="Hugging Face" title="Hugging Face" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/spacy" width="48" height="48" alt="spaCy" title="spaCy" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/nltk.svg" width="48" height="48" alt="NLTK" title="NLTK" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/roboflow" width="48" height="48" alt="Roboflow" title="Roboflow" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/optuna" width="48" height="48" alt="Optuna" title="Optuna" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mlflow" width="48" height="48" alt="MLflow" title="MLflow" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/dvc" width="48" height="48" alt="DVC" title="DVC" />
+  <br/><br/>
+  <img src="https://github.com/zenml-io.png?size=96" width="48" height="48" alt="ZenML" title="ZenML" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prometheus" width="48" height="48" alt="Prometheus" title="Prometheus" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" title="Grafana" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" title="Azure" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" title="Node.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/DA7882" width="48" height="48" alt="Express.js" title="Express.js" />
+  <br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/pgvector.svg" width="48" height="48" alt="pgvector" title="pgvector" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/qdrant" width="48" height="48" alt="Qdrant" title="Qdrant" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/chroma.png" width="48" height="48" alt="ChromaDB" title="ChromaDB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j" title="Neo4j" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" title="SQLite" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" title="Redis" />
+  <br/><br/>
+  <img src="https://cdn.simpleicons.org/apachekafka/A88BFA" width="48" height="48" alt="Kafka" title="Kafka" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/rabbitmq" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/celery" width="48" height="48" alt="Celery" title="Celery" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/temporal/DA7882" width="48" height="48" alt="Temporal" title="Temporal" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" width="48" height="48" alt="gRPC" title="gRPC" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="48" height="48" alt="NGINX" title="NGINX" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/DA7882" width="48" height="48" alt="GitHub" title="GitHub" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" title="VS Code" />
+  <br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" title="React" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" title="GraphQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" title="Postman" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" title="Figma" />
+  <br/><br/>
+  <img src="https://cdn.simpleicons.org/unity/DA7882" width="48" height="48" alt="Unity" title="Unity" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/notion/DA7882" width="48" height="48" alt="Notion" title="Notion" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="48" height="48" alt="Trello" title="Trello" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" title="Canva" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/powerbi.png" width="48" height="48" alt="Power BI" title="Power BI" />
 </div>
 
----
 
-## 📂 Key Projects
+## 🏆 GitHub Trophies
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Cognitex** | Agentic system for educational content processing with Q&A and transcriptions. | FastAPI, LangChain, RAG, Ollama |
-| **HeritaGO** | Gamified tourist application for exploring Tunisian heritage. | FastAPI, React, Hybrid RAG, NLP |
-| **Log Web Analysis** | RAG system for analyzing large volumes of web logs. | Qdrant, PGVector, Azure, Docker |
-| **Reddit Sentiment Analysis** | MLOps pipeline for multi-class classification. | DVC, MLflow, ZenML, Optuna |
-
-<br/>
-
-## 🏅 Certifications & Awards
-
-### 📜 Certifications
-*   **NVIDIA**
-    *   Building Conversational AI Applications
-    *   Building RAG Agents with LLMs
-    *   Computer Vision for Industrial Inspection
-    *   Data Parallelism: How to Train Deep Learning Models on Multiple GPUs
-*   **DataCamp**: Developing Applications with LangChain
-*   **Certiport**: IT Specialist - Python
-*   **CSkilled**: Machine Learning Certificate
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/MarouaHattab/MarouaHattab/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarouaHattab&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarouaHattab&theme=radical" alt="Profile Summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarouaHattab&theme=radical&hide_border=true" width="48%" height="175" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarouaHattab&theme=radical" width="48%" height="175" alt="Profile Summary" />
 </div>
 
 <br/>
 
-<!-- 
-  NOTE: The Snake Animation below requires a GitHub Action to work. 
-  I have added the file: .github/workflows/snake.yml to your folder.
-  Once you push your code to GitHub, the action will run, and this image will appear!
--->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarouaHattab/MarouaHattab/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarouaHattab/MarouaHattab/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarouaHattab/MarouaHattab/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+## 👾 Pac-Man Contribution Graph
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarouaHattab/MarouaHattab/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarouaHattab/MarouaHattab/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarouaHattab/MarouaHattab/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 <br/>
 <br/>
